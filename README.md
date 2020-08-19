@@ -5,3 +5,7 @@
  
  The guided project Visualizing Earnings Based On College Majors is available here:
   https://github.com/dianamartinr/DataquestProjects/blob/master/ProjectVisualizingEarningsMajors/VisualizingEarningsCollegeMajors.ipynb
+ 
+ The guided project Visualizing The Gender Gap In College Degrees is available here:
+  https://github.com/dianamartinr/DataquestProjects/blob/master/ProjectVisualizingEarningsMajors/VisualizingEarningsCollegeMajors.ipynb
+
