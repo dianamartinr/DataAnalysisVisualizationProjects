@@ -9,3 +9,6 @@
  The guided project Visualizing The Gender Gap In College Degrees is available here:
   https://github.com/dianamartinr/DataquestProjects/blob/master/ProjectVisualizingEarningsMajors/VisualizingEarningsCollegeMajors.ipynb
 
+The guided project Clean And Analyze Employee Exit Surveys is available here:
+  https://github.com/dianamartinr/DataquestProjects/blob/master/ProjectCleanAnalyzeEmployeeSurveys/CleanAnalyzeEmployeeSurveys.ipynb
+
