@@ -16,5 +16,6 @@
  - The project from Data Cleaning and Analysis Course, called "Clean And Analyze Employee Exit Surveys" is available here:
    https://github.com/dianamartinr/DataquestProjects/blob/master/ProjectCleanAnalyzeEmployeeSurveys/CleanAnalyzeEmployeeSurveys.ipynb
 
- - The project from Data Cleaning Project Walkthrough Course, called "Analyzing NYC High School Data" is available here:
-   https://github.com/dianamartinr/DataquestProjects/blob/master/ProjectAnalyzingNYCHighSchoolData/Schools.ipynb
+ - The two projects from Data Cleaning Project Walkthrough Course are available here: 
+    - "Analyzing NYC High School Data": https://github.com/dianamartinr/DataquestProjects/blob/master/ProjectAnalyzingNYCHighSchoolData/Schools.ipynb
+    - "Star Wars Survey": https://github.com/dianamartinr/DataquestProjects/blob/master/ProjectAnalyzingStarWarsSurvey/StarWarsProject.ipynb
