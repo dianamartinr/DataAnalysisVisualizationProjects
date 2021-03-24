@@ -1,6 +1,6 @@
-# DataquestProjects
+# Data Analysis and Visualization Projects
  
- This repository contains the courses's projects from Dataquest.io
+ This repository contains six projects to show data analysis and visualization techniques applied on real world data sources. They are courses's projects from Dataquest.io
  
  ## Projects from **Data Analysis and Visualization** Courses
  
